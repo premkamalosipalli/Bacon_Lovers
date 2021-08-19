@@ -1,0 +1,22 @@
+#body {
+	background-color: #607d8b;
+}
+
+#heading {
+	text-align: center;
+	color: blue;
+	font-size: 30px;
+}
+
+img:hover {
+	background-color: yellow;
+}
+
+.bacon {
+	background-color: green;
+
+}
+
+.broccoli{
+	background-color: red;
+}
